@@ -1,4 +1,4 @@
-## ¿Qué es BBP LABS?
+## ¿Qué es BBLABS?
 
 **BBP LABS** es una plataforma de práctica de bug bounty donde puedes resolver labs interactivos basados en vulnerabilidades reales reportadas en programas de [HackerOne](https://hackerone.com), [Bugcrowd](https://bugcrowd.com), [Intigriti](https://intigriti.com) y [YesWeHack](https://yeswehack.com).
 
